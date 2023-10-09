@@ -741,6 +741,10 @@ img {
   margin-bottom: 8px;
 }
 
+.textarea-field {
+  margin-bottom: 16px;
+}
+
 .check-field {
   margin-bottom: 24px;
 }
